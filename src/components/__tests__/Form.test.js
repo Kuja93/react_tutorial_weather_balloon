@@ -4,14 +4,18 @@ import Form from '../Form.js'
 
 const testString = "test123";
 
-const setup = (defaultValue = null, onSubmit = null) =>
+const setup = (loadAPI = null, defaultCity = null, defaultCountry = null) =>
     render(
-        <Form defaultValue={defaultValue} onSubmit={onSubmit}/>
+        <Form
+            loadAPI={loadAPI}
+            defaultCity={defaultCity}
+            defaultCountry={defaultCountry}
+        />
     );
 
 describe('Form', () => {
     test('Render Form with no props', () => {
-        const {getByTestId} = setup(null, null);
+        const {getByTestId} = setup();
         expect(getByTestId('form_city').className).toMatch(
             'weather_input'
         );
@@ -20,13 +24,6 @@ describe('Form', () => {
         );
         expect(getByTestId('form_button').className).toMatch(
             'weather_button'
-        );
-    });
-
-    test('Render Form with default values', () => {
-        const {getByTestId} = setup(testString, null);
-        expect(getByTestId('form_city').textContent).toMatch(
-            testString
         );
     });
 });
