@@ -1,4 +1,4 @@
-# Weather Ballon
+# Weather Balloon
 Simple react project that allows you to enter a city and country then will call the https://openweathermap.org/ api and results will be displayed on screen.
 
 ## Install & Running 
