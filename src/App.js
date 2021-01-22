@@ -26,7 +26,7 @@ class App extends React.Component {
             country: undefined,
             humidity: undefined,
             forecast: undefined,
-            description: undefined,
+            windSpeed: undefined,
             error: undefined
         }
     }
