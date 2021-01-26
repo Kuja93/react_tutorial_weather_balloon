@@ -3,7 +3,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
-import logo from './resources/img/balloon.gif'
+import logo from './resources/image/balloon.gif'
 
 import Title from './components/Title';
 import Form from "./components/Form";
@@ -15,9 +15,9 @@ const UNITS = "metric "; // standard, metric, imperial
 class App extends React.Component {
 
     constructor() {
-        super()
+        super();
         this.state = {
-            heading: "Jonny's Weather Balloonz",
+            heading: "Jonny's Weather Balloon",
             subheading: "Jesus, She's Cold Bais",
             defaultCity: "Belfast",
             defaultCountry: "Northern Ireland",
@@ -64,7 +64,7 @@ class App extends React.Component {
 
     render() {
         return (
-            <div className={`base-weather_body card`}>
+            <div>
                 <div className="card-body">
                     <Title
                         heading={this.state.heading}
