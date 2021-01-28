@@ -2,4 +2,16 @@
     .balloon_gif {
         display: none;
     }
+
+    .weather_input {
+        width: 100%;
+    }
+
+    .title_container {
+        width: 100%;
+    }
+
+    .weather_button {
+        width: 80%;
+    }
 }
