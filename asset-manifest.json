@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_tutorial_weather_balloon/static/css/main.ad480e08.chunk.css",
-    "main.js": "/react_tutorial_weather_balloon/static/js/main.45756608.chunk.js",
-    "main.js.map": "/react_tutorial_weather_balloon/static/js/main.45756608.chunk.js.map",
+    "main.js": "/react_tutorial_weather_balloon/static/js/main.bc84e4ae.chunk.js",
+    "main.js.map": "/react_tutorial_weather_balloon/static/js/main.bc84e4ae.chunk.js.map",
     "runtime-main.js": "/react_tutorial_weather_balloon/static/js/runtime-main.813a7f8a.js",
     "runtime-main.js.map": "/react_tutorial_weather_balloon/static/js/runtime-main.813a7f8a.js.map",
     "static/css/2.150d169a.chunk.css": "/react_tutorial_weather_balloon/static/css/2.150d169a.chunk.css",
@@ -11,13 +11,14 @@
     "index.html": "/react_tutorial_weather_balloon/index.html",
     "static/css/2.150d169a.chunk.css.map": "/react_tutorial_weather_balloon/static/css/2.150d169a.chunk.css.map",
     "static/css/main.ad480e08.chunk.css.map": "/react_tutorial_weather_balloon/static/css/main.ad480e08.chunk.css.map",
-    "static/js/2.2ed30572.chunk.js.LICENSE.txt": "/react_tutorial_weather_balloon/static/js/2.2ed30572.chunk.js.LICENSE.txt"
+    "static/js/2.2ed30572.chunk.js.LICENSE.txt": "/react_tutorial_weather_balloon/static/js/2.2ed30572.chunk.js.LICENSE.txt",
+    "static/media/balloon.cf012c46.gif": "/react_tutorial_weather_balloon/static/media/balloon.cf012c46.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.813a7f8a.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2ed30572.chunk.js",
     "static/css/main.ad480e08.chunk.css",
-    "static/js/main.45756608.chunk.js"
+    "static/js/main.bc84e4ae.chunk.js"
   ]
 }
