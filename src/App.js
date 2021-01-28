@@ -2,8 +2,7 @@ import React from "react";
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-
-import logo from './resources/image/balloon.gif'
+import './responsive.css';
 
 import Title from './components/Title';
 import Form from "./components/Form";
@@ -70,7 +69,7 @@ class App extends React.Component {
                         heading={this.state.heading}
                         subheading={this.state.subheading}
                     />
-                    <img src={logo} alt="balloon"/>
+                    <img src={"/balloon.gif"} alt="balloon" className={"balloon_gif"}/>
                     <Form
                         loadAPI={this.callWeatherAPI}
                         defaultCity={this.state.defaultCity}
