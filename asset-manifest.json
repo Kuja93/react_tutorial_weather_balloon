@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_tutorial_metronome/static/css/main.ad480e08.chunk.css",
-    "main.js": "/react_tutorial_metronome/static/js/main.45756608.chunk.js",
-    "main.js.map": "/react_tutorial_metronome/static/js/main.45756608.chunk.js.map",
-    "runtime-main.js": "/react_tutorial_metronome/static/js/runtime-main.b7b71a3c.js",
-    "runtime-main.js.map": "/react_tutorial_metronome/static/js/runtime-main.b7b71a3c.js.map",
-    "static/css/2.150d169a.chunk.css": "/react_tutorial_metronome/static/css/2.150d169a.chunk.css",
-    "static/js/2.2ed30572.chunk.js": "/react_tutorial_metronome/static/js/2.2ed30572.chunk.js",
-    "static/js/2.2ed30572.chunk.js.map": "/react_tutorial_metronome/static/js/2.2ed30572.chunk.js.map",
-    "index.html": "/react_tutorial_metronome/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/react_tutorial_metronome/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ad480e08.chunk.css.map": "/react_tutorial_metronome/static/css/main.ad480e08.chunk.css.map",
-    "static/js/2.2ed30572.chunk.js.LICENSE.txt": "/react_tutorial_metronome/static/js/2.2ed30572.chunk.js.LICENSE.txt"
+    "main.css": "/react_weather_balloon/static/css/main.ad480e08.chunk.css",
+    "main.js": "/react_weather_balloon/static/js/main.45756608.chunk.js",
+    "main.js.map": "/react_weather_balloon/static/js/main.45756608.chunk.js.map",
+    "runtime-main.js": "/react_weather_balloon/static/js/runtime-main.39815f73.js",
+    "runtime-main.js.map": "/react_weather_balloon/static/js/runtime-main.39815f73.js.map",
+    "static/css/2.150d169a.chunk.css": "/react_weather_balloon/static/css/2.150d169a.chunk.css",
+    "static/js/2.2ed30572.chunk.js": "/react_weather_balloon/static/js/2.2ed30572.chunk.js",
+    "static/js/2.2ed30572.chunk.js.map": "/react_weather_balloon/static/js/2.2ed30572.chunk.js.map",
+    "index.html": "/react_weather_balloon/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react_weather_balloon/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ad480e08.chunk.css.map": "/react_weather_balloon/static/css/main.ad480e08.chunk.css.map",
+    "static/js/2.2ed30572.chunk.js.LICENSE.txt": "/react_weather_balloon/static/js/2.2ed30572.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7b71a3c.js",
+    "static/js/runtime-main.39815f73.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2ed30572.chunk.js",
     "static/css/main.ad480e08.chunk.css",
