@@ -8,6 +8,8 @@ import Title from './components/Title';
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
+import logo from './resources/image/balloon.gif'
+
 const API_TOKEN = "OPEN WEATHER API KEY GOES HERE";
 const UNITS = "metric "; // standard, metric, imperial
 
@@ -69,7 +71,7 @@ class App extends React.Component {
                         heading={this.state.heading}
                         subheading={this.state.subheading}
                     />
-                    <img src={"/balloon.gif"} alt="balloon" className={"balloon_gif"}/>
+                    <img src={logo} alt="balloon" className={"balloon_gif"}/>
                     <Form
                         loadAPI={this.callWeatherAPI}
                         defaultCity={this.state.defaultCity}
