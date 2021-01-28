@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_tutorial_weather_balloon/static/css/main.b6c56f25.chunk.css",
-    "main.js": "/react_tutorial_weather_balloon/static/js/main.2aa23fe1.chunk.js",
-    "main.js.map": "/react_tutorial_weather_balloon/static/js/main.2aa23fe1.chunk.js.map",
+    "main.js": "/react_tutorial_weather_balloon/static/js/main.438f03da.chunk.js",
+    "main.js.map": "/react_tutorial_weather_balloon/static/js/main.438f03da.chunk.js.map",
     "runtime-main.js": "/react_tutorial_weather_balloon/static/js/runtime-main.813a7f8a.js",
     "runtime-main.js.map": "/react_tutorial_weather_balloon/static/js/runtime-main.813a7f8a.js.map",
     "static/css/2.150d169a.chunk.css": "/react_tutorial_weather_balloon/static/css/2.150d169a.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2ed30572.chunk.js",
     "static/css/main.b6c56f25.chunk.css",
-    "static/js/main.2aa23fe1.chunk.js"
+    "static/js/main.438f03da.chunk.js"
   ]
 }
